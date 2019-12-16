@@ -1,5 +1,4 @@
 import os
-import env
 from flask import Flask, request, render_template
 from bson.objectid import ObjectId
 from flask_pymongo import PyMongo
